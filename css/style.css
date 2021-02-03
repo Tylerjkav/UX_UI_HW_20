@@ -519,6 +519,10 @@ h2 {
   color: white;
 }
 
+.white:hover {
+  color: white;
+}
+
 .red {
   color: #EE1F37;
 }
@@ -544,6 +548,10 @@ h2 {
 }
 
 .carousel {
+  z-index: -100;
+}
+
+.toback {
   z-index: -100;
 }
 
