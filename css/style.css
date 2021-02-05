@@ -270,9 +270,14 @@ h6 {
 }
 
 .content {
-  width: 70%;
+  width: 60%;
   margin: 0 auto;
   /* max-width: 1600px; */
+}
+
+.linkedInIcon {
+  color: #3B3939;
+  font-size: 42px;
 }
 
 .contentWork {
@@ -289,8 +294,20 @@ h6 {
 p {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  font-size: 12pt;
-  line-height: 25px;
+  font-size: 15pt;
+  line-height: 30px;
+}
+
+li {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 15pt;
+  line-height: 30px;
+}
+
+i {
+  color: #EE1F37;
+  text-align: center !important;
 }
 
 .pul {
